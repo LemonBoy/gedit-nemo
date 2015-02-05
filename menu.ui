@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <menu id="options_menu">
+		<item>
+			<attribute name="label" translatable="yes">Case sensitive</attribute>
+			<attribute name="action">opt.toggle-case-sensitive</attribute>
+		</item>
+		<item>
+			<attribute name="label" translatable="yes">Match whole word only</attribute>
+			<attribute name="action">opt.toggle-match-whole-word</attribute>
+		</item>
+		<item>
+			<attribute name="label" translatable="yes">Regular Expression</attribute>
+			<attribute name="action">opt.toggle-regexp-mode</attribute>
+		</item>
+  </menu>
+</interface>
