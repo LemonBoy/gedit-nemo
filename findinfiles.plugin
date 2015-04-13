@@ -1,0 +1,6 @@
+[Plugin]
+Module=gedit-findinfiles-plugin.so
+IAge=1
+Name=Find in Files
+Description=Quick way to find files matching a pattern.
+Authors=The Lemon Man <thatlemon at google's mail service dot com>
