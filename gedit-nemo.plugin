@@ -1,8 +1,0 @@
-[Plugin]
-Module=gedit-nemo-plugin.so
-IAge=1
-Name=Nemo
-Description=Find some text in some files
-Authors=
-Copyright=
-Website=
